@@ -1,0 +1,5 @@
+screenshots/
+aks-tf/.terraform/
+aks-tf/.terraform.lock.hcl
+aks-tf/terraform.tfstate
+aks-tf/terraform.tfstate.backup
